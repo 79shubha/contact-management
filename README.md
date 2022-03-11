@@ -2,8 +2,8 @@ Part of ZOHO recruitment
 
 Software Requirements:
 
-Xampp
-Atom IDE / VS code
+Xampp Atom 
+IDE / VS code
 Any Browser(preferably Chrome
 Steps to execute the Program
 

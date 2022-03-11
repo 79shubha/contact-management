@@ -1,21 +1,18 @@
-?php
-$servername = "localhost";
+<?php
+$severname = "localhost";
 $username = "root";
 $password = "";
 $dbname = "contactapp";
 
-$con = mysqli_connect($servername,$username,$password,$dbname);
+$con = mysqil_connect($severname,$username,$password,$dbname)
+  
+  //if($con){
+  //    echo "connection ok";
+  // }
+  // else{
+  //      echo "connection failed".mysqil_connect_error();
+  // }
+  
+  ?>
+  
 
-// if($con){
-//     echo "Connection ok";
-// }
-// else{
-//      echo "Connection failed".mysqli_connect_error();
-//  }
-
-?>
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-S

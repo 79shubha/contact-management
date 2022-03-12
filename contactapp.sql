@@ -89,7 +89,7 @@ ADD PRIMARY KEY ('SL_NO);
 -- AUTO_INCREMENT for table 'contact'
 --
 ALTER TABLE 'contact'
-MODIFY 'sl_no" bigint(250) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT+44;
+MODIFY 'sl_no" bigint(250) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
 --
 -- AUTO_INCREMENT for table 'logins'
